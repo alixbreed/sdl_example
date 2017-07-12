@@ -1,0 +1,5 @@
+*.o
+bin/*.*
+.vscode
+bin/main.o
+bin/sdl_example
